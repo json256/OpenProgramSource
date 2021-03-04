@@ -1,17 +1,122 @@
 [{
         "id": "1",
-        "name": "CCTV-11",
-        "category": "1",
-        "source": ["http://223.110.241.130:6610/gitv/live1/G_CCTV-11-HQ/.m3u8","http://192.168.1.93:8000/E%3A/Common/01.mp4"]
-    }, {
+        "name": "CCTV-1",
+        "category": "央视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/cctv-1/yst.m3u8"]
+    },{
         "id": "2",
-        "name": "CCTV-13",
-        "category": "1",
-        "source": ["http://223.110.241.130:6610/gitv/live1/G_CCTV-13-HQ/.m3u8","http://192.168.1.93:8000/E%3A/Common/02.mp4"]
-    }, {
+        "name": "CCTV-2",
+        "category": "央视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/cctv-2/yst.m3u8"]
+    },{
         "id": "3",
         "name": "CCTV-3",
-        "category": "1",
-        "source": ["http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8","http://192.168.1.93:8000/E%3A/Common/03.mp4"]
+        "category": "央视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/cctv-3/yst.m3u8"]
+    },{
+        "id": "4",
+        "name": "CCTV-4",
+        "category": "央视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/cctv-4/yst.m3u8"]
+    },{
+        "id": "5",
+        "name": "CCTV-5",
+        "category": "央视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8"]
+    },{
+        "id": "6",
+        "name": "CCTV-6",
+        "category": "央视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/cctv-6/yst.m3u8"]
+    },{
+        "id": "7",
+        "name": "CCTV-7",
+        "category": "央视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/cctv-7/yst.m3u8"]
+    },{
+        "id": "8",
+        "name": "CCTV-8",
+        "category": "央视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/cctv-8/yst.m3u8"]
+    },{
+        "id": "9",
+        "name": "CCTV-9",
+        "category": "央视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/cctv-9/yst.m3u8"]
+    },{
+        "id": "10",
+        "name": "CCTV-10",
+        "category": "央视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/cctv-10/yst.m3u8"]
+    },{
+        "id": "11",
+        "name": "CCTV-11",
+        "category": "央视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/cctv-11/yst.m3u8"]
+    },{
+        "id": "12",
+        "name": "CCTV-12",
+        "category": "央视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/cctv-12/yst.m3u8"]
+    },{
+        "id": "13",
+        "name": "CCTV-13",
+        "category": "央视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/cctv-13/yst.m3u8"]
+    },{
+        "id": "14",
+        "name": "CCTV-14",
+        "category": "央视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/cctv-14/yst.m3u8"]
+    },{
+        "id": "15",
+        "name": "CCTV-15",
+        "category": "央视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/cctv-15/yst.m3u8"]
+    },{
+        "id": "16",
+        "name": "湖南卫视",
+        "category": "卫视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/hdhunanstv/yst.m3u8"]
+    },{
+        "id": "17",
+        "name": "江苏卫视",
+        "category": "卫视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/jiangsustv/yst.m3u8"]
+    },{
+        "id": "18",
+        "name": "东方卫视",
+        "category": "卫视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/dongfangstv/yst.m3u8"]
+    },{
+        "id": "19",
+        "name": "广东卫视",
+        "category": "卫视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/guangdongstv/yst.m3u8"]
+    },{
+        "id": "20",
+        "name": "山东卫视",
+        "category": "卫视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/shandongstv/yst.m3u8"]
+    },{
+        "id": "21",
+        "name": "北京卫视",
+        "category": "卫视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/beijingstv/yst.m3u8"]
+    },{
+        "id": "22",
+        "name": "重庆卫视",
+        "category": "卫视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/chongqingstv/yst.m3u8"]
+    },{
+        "id": "23",
+        "name": "安徽卫视",
+        "category": "卫视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/anhuistv/yst.m3u8"]
+    },{
+        "id": "24",
+        "name": "湖北卫视",
+        "category": "卫视",
+        "source": ["http://121.31.30.90:8085/ysten-business/live/hubeistv/yst.m3u8"]
     }
 ]
